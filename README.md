@@ -34,3 +34,8 @@ The generated implementation in `generated_version/ai_generated_solver.py` attem
 pip install -r requirements.txt
 pytest
 streamlit run app.py
+```
+
+## Live Application
+
+https://faustino-fernandez-eng321-iterative-sizing-app-xyz.streamlit.app/
